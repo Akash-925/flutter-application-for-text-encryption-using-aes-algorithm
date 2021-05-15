@@ -57,7 +57,7 @@ class _HomePageState extends State<HomePage> {
                           copy: true, paste: true, selectAll: true),
                       controller: tec,
                       style:
-                          TextStyle(fontWeight: FontWeight.w400, fontSize: 20)),
+                          TextStyle(fontFamily: "Abel", fontWeight: FontWeight.w400, fontSize: 20)),
                 ),
                 Column(
                   mainAxisAlignment: MainAxisAlignment.spaceEvenly,
